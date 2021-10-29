@@ -1,2 +1,2 @@
-# Plan-de-accion-del-Proyecto-Capston
-Documentacion del proyecto capston 
+# Gestión automatizada de Invernaderos
+--> Documentacion del proyecto capston 
